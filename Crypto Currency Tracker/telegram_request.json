@@ -1,0 +1,28 @@
+{
+    "update_id": 756526134,
+    "message": {
+        "message_id": 10,
+        "from": {
+            "id": 904980740,
+            "is_bot": false,
+            "first_name": "Manoj",
+            "username": "Manumanoj0010",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 904980740,
+            "first_name": "Manoj",
+            "username": "Manumanoj0010",
+            "type": "private"
+        },
+        "date": 1571096574,
+        "text": "/btc",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 4,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
